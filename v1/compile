@@ -1,0 +1,3 @@
+gcc -ansi -pedantic -Wall -o multi multi.c
+ln -s multi paul
+ln -s multi bruno
