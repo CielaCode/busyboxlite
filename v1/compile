@@ -1,3 +1,5 @@
+# compilation avec gcc 
 gcc -ansi -pedantic -Wall -o multi multi.c
+# création des liens paul et bruno
 ln -s multi paul
 ln -s multi bruno
